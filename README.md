@@ -1,4 +1,4 @@
-# 🎮 Strategem — Multiplayer Mission Logic Prototype
+# 🎮 Multiplayer Mission Logic Prototype
 
 **Strategem** is a multiplayer game prototype built in **Unreal Engine 5**, where players form teams to complete or defend dynamic objectives. The game encourages strategy, logic, and teamwork with flexible, story-driven missions.
 
