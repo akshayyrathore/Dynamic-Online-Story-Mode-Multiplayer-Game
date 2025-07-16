@@ -1,3 +1,16 @@
 google drive link 
 
 https://drive.google.com/drive/folders/1senmB9TLQiSkFhIHEReCdGo6M1zRbwzL?usp=sharing
+
+Project Setup Steps
+Download or clone the project from GitHub.
+
+Download all required packages and assets if prompted.
+
+Open the project in Unreal Engine.
+
+Go to the Plugins folder in the project directory.
+
+Organize the Plugins folder according to levels.
+
+Open the OurTestMap map from the Content Browser.
